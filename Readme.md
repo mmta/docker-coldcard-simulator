@@ -4,7 +4,7 @@ This is a docker image for [Coldcard wallet simulator](https://github.com/Coldca
 
 ## Quick start
 
-There's pre-built image on [Dockerhub](https://hub.docker.com/repository/docker/mmta/coldcard-simulator). You need to have an X server running where the docker host is, and then:
+There's pre-built image on [Dockerhub](https://hub.docker.com/r/mmta/coldcard-simulator). You need to have an X server running where the docker host is, and then:
 
 ```
 $ docker run --rm -it --name coldcard \
