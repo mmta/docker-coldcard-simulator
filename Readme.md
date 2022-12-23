@@ -17,7 +17,7 @@ The first `-v` is for X server connection, and the second one is for persisting 
 This should just works out of the box if you're using Linux. Windows 10/11 users will need to install 
 [Windows Subsystem for Linux (WSL)](https://apps.microsoft.com/store/detail/windows-subsystem-for-linux/9P9TQF7MRM4R), and Windows 10 will also need the appropriate OS updates to support [WSLg](https://github.com/microsoft/wslg). Screenshot of the simulator running on WSL2 (Ubuntu):
 
-![coldcard simulator](examples/screenshot.png)
+![coldcard simulator](screenshot.png)
 
 ## Command lines
 
